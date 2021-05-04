@@ -342,6 +342,10 @@ div.center {
 
 div.center img {
   border: 0px;
+  /* My changes */
+  margin-bottom: 12px;
+  padding: 30px;
+  background-color: #3E4451;
 }
 
 address.footer {
